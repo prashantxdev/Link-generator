@@ -1,0 +1,31 @@
+# Backend
+backend/node_modules/
+backend/.env
+backend/.env.local
+backend/dist/
+backend/.vscode/
+backend/package-lock.json
+
+# Frontend
+frontend/node_modules/
+frontend/.env.local
+frontend/build/
+frontend/dist/
+frontend/.next/
+frontend/out/
+frontend/package-lock.json
+
+# OS
+.DS_Store
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.code-workspace
+
+# Misc
+.env
+.env.*.local
