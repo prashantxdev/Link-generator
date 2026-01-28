@@ -674,4 +674,3 @@ Ready to deploy? Follow the Quick Start above!
 
 Questions? Check the docs folder for detailed information.
 
-Built with ❤️ for developers
